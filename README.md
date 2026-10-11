@@ -14,4 +14,4 @@ Python | SQL | Git & GitHub | NumPy | Pandas | scikit-learn
 - [Chatbot Project](paste-your-repository-link-here): short one-line description of what it does
 
 ## Contact
-- LinkedIn: [your LinkedIn link]
+- LinkedIn: [S Mahammad Sakhib](https://www.linkedin.com/in/s-mahammad-sakhib-0725f41a3389/)
