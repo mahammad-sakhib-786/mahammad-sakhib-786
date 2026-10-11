@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [S Mahammad Sakhib] 👋
 
-<!--
-**mahammad-sakhib-786/mahammad-sakhib-786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & ML engineering student, learning to build useful and ethical AI projects.
 
-Here are some ideas to get you started:
+## About me
+- Currently learning: Python, Machine Learning, Deep Learning
+- Interested in: chatbots, AI applications, cybersecurity
+- Goal: become an industry-ready AI/ML engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python | SQL | Git & GitHub | NumPy | Pandas | scikit-learn
+
+## Projects
+- [Chatbot Project](paste-your-repository-link-here): short one-line description of what it does
+
+## Contact
+- LinkedIn: [your LinkedIn link]
