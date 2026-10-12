@@ -13,7 +13,7 @@ Python | SQL | Git & GitHub | NumPy | Pandas | scikit-learn
 ## Projects
 ## Projects
 
-- 🤖 [**My Chatbot**](https://chatgpt.com/c/YOUR_CHATBOT_REPOSITORY_URL): A simple Python chatbot built with the free Google Gemini API.
+- 🤖 [**My Chatbot**](https://github.com/mahammad-sakhib-786/my-chatbot.git): A simple Python chatbot built with the free Google Gemini API.
 
 - 🛡️ [**SentinelAI — AI-Powered Website Security Scanner**](https://github.com/mahammad-sakhib-786/SentinelAI): A Python and Streamlit application that checks HTTP security headers, identifies common configuration gaps, calculates a rule-based risk score, and uses Google Gemini AI to explain findings and suggest remediation.
 
