@@ -11,7 +11,6 @@ AI & ML engineering student, learning to build useful and ethical AI projects.
 Python | SQL | Git & GitHub | NumPy | Pandas | scikit-learn
 
 ## Projects
-## Projects
 
 - 🤖 [**My Chatbot**](https://github.com/mahammad-sakhib-786/my-chatbot.git): A simple Python chatbot built with the free Google Gemini API.
 
